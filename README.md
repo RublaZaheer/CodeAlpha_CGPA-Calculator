@@ -1,1 +1,1 @@
-# CodeAlpha_CGPA-Calculator
+This C++ program calculates a student's CGPA by taking the number of courses, then for each course, it collects the course name, letter grade, and credit hours. It converts the letter grade into grade points, multiplies it with credit hours to get total grade points, and sums up all credit hours. After processing all courses, it displays each course's details and calculates the final CGPA by dividing the total grade points by total credit hours. The program also includes input validation to ensure correct entries.# CodeAlpha_CGPA-Calculator
